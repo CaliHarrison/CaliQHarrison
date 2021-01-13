@@ -1,3 +1,0 @@
-# CaliQHarrison
-
-My portfolio.
