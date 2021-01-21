@@ -24,7 +24,7 @@
 		<div id="contactDetails" class="quickFade delayFour">
 			<ul>
 				<li>e: <a href="mailto:caliqh@aol.com" target="_blank">Caliqh@aol.com</a></li>
-				<li>w: <a href="http://127.0.0.1:3000/CQH/CQH.html">CQH Website</a></li>
+				<li>w: <a href="./index.html">CQH Website</a></li>
 				<li>m: (909) 210-6969</li>
 			</ul>
 		</div>
