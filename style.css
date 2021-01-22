@@ -197,6 +197,13 @@ font-family: 'Oswald', sans-serif;
   padding: 0 4px;
 }
 
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Photo Grid */
 /* Create four equal columns that sits next to each other */
 .column {
   flex: 25%;
