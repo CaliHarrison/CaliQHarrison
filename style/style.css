@@ -151,13 +151,13 @@ body {
     box-sizing: border-box;
     min-height: 100vh;
     padding: 2em;
-    background-color: rgb(189,210,213);
+    background-color: #167ac6;
     color: #000000;
-    font-family: 'Abril Fatface', serif;
-    font-weight: 300;
+    font-family: Poppins, sans-serif;
+    font-weight: bold;
     font-size: 1.5em;
     text-align: center;
-    box-shadow: 0 -4px 10px rgba(189,210,213);
+    box-shadow: 0 -4px 10px #0ff;
 }
 
 .menu h1 {
@@ -242,4 +242,16 @@ font-family: 'Abril Fatface', serif;
   div.example {
     font-size: 30px;
   }
+}
+h1 {
+  font-size: 80px;
+  font-family: 'Abril Fatface', serif;
+}
+
+h2 {
+  font-size: 60px;
+}
+
+p {
+  font-size: 30px;
 }
