@@ -167,13 +167,13 @@ font-family: 'Abril Fatface', serif;
 .menu .menu-group-container {
     display: flex;
     flex-flow: row wrap;
-    flex-grow: 1;
+    flex-grow: 8;
     justify-content: space-around;
 }
 .menu .menu-group {
     padding: 1em;
-    min-width: 300px;
-    max-width: 500px;
+    min-width: 600px;
+    max-width: 1000px;
 }
 
 .menu .menu-head {
